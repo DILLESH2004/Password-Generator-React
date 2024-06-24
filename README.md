@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 #Password Generator
 A React-based password generator that creates strong and unique passwords.
 
-Overview
+Overview:
 This project generates passwords based on user-defined settings, including:
 
 Password length (between 8 and 40 characters)
@@ -33,15 +33,16 @@ Clone the repository: git clone https://github.com/your-username/password-genera
 Install dependencies: npm install
 Start the application: npm start
 Open http://localhost:3000 in your browser to access the password generator
-Customization
+
+#Customization
+
 You can customize the password generator by modifying the following settings:
 
 lowercaseList: the list of lowercase letters to include in the password
 UppercaseList: the list of uppercase letters to include in the password
 NumbersList: the list of numbers to include in the password
 Symbols: the list of special characters to include in the password
-License
-This project is licensed under the MIT License.
+
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
