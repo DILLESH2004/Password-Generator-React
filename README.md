@@ -30,8 +30,11 @@ React Toastify for notifications
 React Router Dom for routing
 Getting Started
 Clone the repository: git clone https://github.com/your-username/password-generator.git
+
 Install dependencies: npm install
+
 Start the application: npm start
+
 Open http://localhost:3000 in your browser to access the password generator
 
 #Customization
