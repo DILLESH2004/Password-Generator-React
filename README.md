@@ -22,13 +22,14 @@ Allows users to customize password settings
 Copies generated password to clipboard
 Displays password length and character settings
 Provides a user-friendly interface for easy password generation
-Technologies Used
-React
-JavaScript
-CSS
-React Toastify for notifications
-React Router Dom for routing
-Getting Started
+Technologies Used:
+-React
+-JavaScript
+-CSS
+-React Toastify for notifications
+-React Router Dom for routing
+
+->Getting Started
 Clone the repository: git clone https://github.com/your-username/password-generator.git
 
 Install dependencies: npm install
